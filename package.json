@@ -1,0 +1,14 @@
+{
+    "name": "btp_bais_writer",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "https": "1.0.0",
+        "node-cron": "2.0.3",
+        "oracledb": "5.1.0",
+        "ssl-root-cas": "latest"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}
