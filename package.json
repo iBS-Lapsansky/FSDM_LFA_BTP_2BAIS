@@ -9,6 +9,8 @@
         "ssl-root-cas": "latest"
     },
     "scripts": {
-        "test": "mocha"
+        "test": "mocha",
+	"check": "node check.js",
+	"read" : "node read_kneiff.js"
     }
 }
