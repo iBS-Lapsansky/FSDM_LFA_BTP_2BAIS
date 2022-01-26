@@ -14,9 +14,21 @@ npm run read_bais_kneiff
 ```
 npm run delete_all_kneiff
 ```
+## read iBS BAIS DB Gstiff
+```
+npm run read_bais_gstiff
+```
+## delete all BAIS DB Gstiff
+```
+npm run delete_all_gstiff
+```
 ## read KNEIFF && GSTIFF from BPT and write into iBS BAIS DB
 ```
 npm run load_bais_all
+```
+## delete KNEIFF && GSTIFF from iBS BAIS DB
+```
+npm run delete_bais_all
 ```
 ## write Testdata into iBS BAIS DB (both KNEIFF && GSTIFF )
 ```

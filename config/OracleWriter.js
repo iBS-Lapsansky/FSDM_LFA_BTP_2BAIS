@@ -274,6 +274,9 @@ class OracleWriter {
       ":GSTIFF_CSPTY," +
       ":GSTIFF_IPRKZ," +
       ":GSTIFF_ARTSP," +
+      ":GSTIFF_WLKKZ," +
+      ":GSTIFF_PSINV," +
+      ":GSTIFF_SPKRF," +
       ":GSTIFF_RESE1," +
       ":GSTIFF_RESE2," +
       ":GSTIFF_RESE3," +
