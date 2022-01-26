@@ -10,6 +10,10 @@ npm run check
 ```
 npm run read_bais_kneiff
 ```
+## delete all BAIS DB Knieff
+```
+npm run delete_all_kneiff
+```
 ## read KNEIFF && GSTIFF from BPT and write into iBS BAIS DB
 ```
 npm run load_bais_all
@@ -21,7 +25,6 @@ npm run test_data_insert
 ```
 npm run test_data_delete
 ```
-
 # Test commands
 ## run unit tests in MOCHA
 ```

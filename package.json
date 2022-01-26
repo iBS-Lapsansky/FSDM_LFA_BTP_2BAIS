@@ -12,6 +12,7 @@
         "test": "mocha",
 	"check": "node check.js",
 	"read_bais_kneiff" : "node read_kneiff.js",
+	"delete_all_kneiff" : "node deleteAllKneiff.js",
 	"load_bais_all" : "node writeBTP2BAIS.js",
 	"test_data_insert": "node testinsert.js",
 	"test_data_delete": "node deleteBTPfromBAIS.js"
