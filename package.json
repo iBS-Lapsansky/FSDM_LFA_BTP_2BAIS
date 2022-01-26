@@ -13,6 +13,6 @@
 	"check": "node check.js",
 	"read" : "node read_kneiff.js",
 	"load_bais" : "node writeBTP2BAIS.js",
-	"test_insert": "testinsert.js"
+	"test_insert": "node testinsert.js"
     }
 }
