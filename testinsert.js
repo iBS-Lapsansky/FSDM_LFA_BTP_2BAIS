@@ -1,4 +1,4 @@
-const dummyData = require('./testdata/dummyData4insert');
+const dummyData = require('./testdata/dummyData2insert');
 const OracleWriter = require('./config/OracleWriter');
 const o = new OracleWriter();
 
