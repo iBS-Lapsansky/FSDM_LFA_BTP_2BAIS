@@ -1,4 +1,4 @@
-# FSDM_LFA_BTP_2BAIS_
+# FSDM_LFA_BTP_2BAIS
 Write FSDM Data from SAP BTP to iBS SRT BAIS
 
 # Showcase  commands
